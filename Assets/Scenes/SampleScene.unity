@@ -1295,7 +1295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 372bcb590f93f124b809f8cf6d50a93f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  userPosition: {fileID: 0}
+  userPosition: {fileID: 1887261340}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1695,7 +1695,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 372bcb590f93f124b809f8cf6d50a93f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  userPosition: {fileID: 0}
+  userPosition: {fileID: 1887261340}
 --- !u!1 &1833303145
 GameObject:
   m_ObjectHideFlags: 0
