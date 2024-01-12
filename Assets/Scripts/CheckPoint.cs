@@ -24,6 +24,14 @@ public class CheckPoint : MonoBehaviour
        LoadData();
    }
 
+   void OnTriggerEnter(Collider collider)
+   {
+        if (other.gameObject.layer == 7)
+        {
+           LoadData(); 
+        }
+   }
+
    void LoadData()
    {
     PlayerPrefs.GetFloat("positionX", 700.3867).ToString() + "x " +
